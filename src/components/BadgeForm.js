@@ -1,7 +1,7 @@
 import React from 'react';
 
 class BadgeForm extends React.Component {
-  //nuevo commit
+  //nuevo commit x2
   // el estado se puede inicializar vacío o con un valor determinado para cada campo
 // state = {};
 
